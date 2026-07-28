@@ -60,21 +60,43 @@ ObservationPortal
 
 > Add screenshots of the application here.
 
-### Login Page
+## 🔐 Login Page
 
-(Add Screenshot)
+<p align="center">
+  <img src="Screenshots/login.png" width="900"/>
+</p>
 
-### Dashboard
+---
 
-(Add Screenshot)
+## 📊 Dashboard
 
-### Observation Entry
+<p align="center">
+  <img src="Screenshots/dashboard.png" width="900"/>
+</p>
 
-(Add Screenshot)
+---
 
-### Reports
+## 📝 Observation Entry
 
-(Add Screenshot)
+<p align="center">
+  <img src="Screenshots/observation.png" width="900"/>
+</p>
+
+---
+
+## 🏢 Department Management
+
+<p align="center">
+  <img src="Screenshots/department.png" width="900"/>
+</p>
+
+---
+
+## 📄 Reports
+
+<p align="center">
+  <img src="Screenshots/reports.png" width="900"/>
+</p>
 
 ---
 
